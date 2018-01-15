@@ -9,7 +9,7 @@
   />
 </p>
 
-<p align="center">Código fuente del tutorial <a href="https://gugadev.wordpress.com">"Creando una API en Python con Sanic y Records"</a></p>
+<p align="center">Código fuente del tutorial <a href="https://goo.gl/DA5k36">"Creando una API con Sanic y Records"</a></p>
 
 ---
 
