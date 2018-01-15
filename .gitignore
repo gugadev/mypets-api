@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# vscode config
+.vscode/
+
+# database
+*.db
+
+# mac ds_store
+.DS_Store
