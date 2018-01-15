@@ -1,0 +1,1 @@
+INSERT INTO pets(name, breed, age, weight, photo) VALUES(:name, :breed, :age, :weight, :photo)
